@@ -13,7 +13,7 @@ body {
 }
 
 div#root {
-  color: red;
+  color: orange;
   font-size: 30px;
   font-weight: 700;
   border: 2px solid orange;
